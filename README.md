@@ -1,0 +1,1 @@
+# nca-fundraising-assistant
